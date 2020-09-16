@@ -18,6 +18,3 @@ m ← n
 n ← r
 return m
 
-
-
-Contoh 3
