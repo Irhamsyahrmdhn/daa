@@ -1,0 +1,33 @@
+Contoh 3
+Pseudocode Menghitung Luas Trapesium
+Berikut adalah rumus yang digunakan untuk menghitung luas trapesium.
+
+contoh pseudocode trapesium
+Contoh soal
+
+Diketahui terdapat sebuah trapesium dengan panjang sisi sebagai berikut.
+
+AB 20
+BC 10
+CD 15
+DA 10
+t 8
+
+ 
+Maka hitunglah luas dari trapesium
+
+program hitung_luas_trapesium
+
+deklarasi
+var luas, ab, cd, t:integer;
+
+algoritma:
+ab <– 20;
+cd <– 10;
+t <– 8;
+
+luas <– 1/2 * ab * cd * t;
+
+
+ 
+write <– luas ;
